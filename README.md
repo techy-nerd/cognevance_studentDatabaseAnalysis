@@ -19,9 +19,22 @@ This project involves creating a student database and performing SQL operations 
 * Generated reports for top students and attendance
 * Applied JOIN operations
 
-## Outputs
+## Screenshots
 
-Screenshots of query outputs are included.
+### Students Data
+![Students Data](Screenshots/Students_data.png)
+
+### Filtering
+![Filter](Screenshots/filter_sorting.png)
+
+### Aggregate Function
+![Aggregate](Screenshots/aggregate.png)
+
+### Top Student
+![Top Student](Screenshots/top_student.png)
+
+### Join Query
+![Join](Screenshots/join.png)
 
 ## Conclusion
 
